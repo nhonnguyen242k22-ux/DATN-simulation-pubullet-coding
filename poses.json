@@ -1,0 +1,22 @@
+{
+  "neutral": {
+    "description": "Fully open hand, all fingers extended, thumb at rest. Starting pose for Kapandji test.",
+    "pybullet_targets": {
+      "thumb_dmc_0":  0.0,
+      "thumb_mcp_0":  0.0,
+      "thumb_ip_0":   0.0,
+      "index_mcp_0":  0.0,
+      "index_pip_0":  0.0,
+      "index_dip_0":  0.0,
+      "middle_mcp_0": 0.0,
+      "middle_pip_0": 0.0,
+      "middle_dip_0": 0.0,
+      "ring_mcp_0":   0.0,
+      "ring_pip_0":   0.0,
+      "ring_dip_0":   0.0,
+      "little_mcp_0": 0.0,
+      "little_pip_0": 0.0,
+      "little_dip_0": 0.0
+    }
+  }
+}
